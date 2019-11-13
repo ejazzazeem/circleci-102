@@ -6,3 +6,4 @@
      steps:
        - checkout
        - run: echo "A first hello from circle 2 project"
+       - run: echo "project Demo"
